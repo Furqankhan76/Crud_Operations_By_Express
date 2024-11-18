@@ -1,4 +1,4 @@
-# Simple crud operations wit Express.js and MongoDB
+# Simple crud operations with Express.js and MongoDB
 
 In this operations I learned the basics of Express.js and create a To-Do-list which accepts the tasks with a valid category :
 - .post To create a Task.

@@ -8,7 +8,7 @@ const taskschema = mongoose.Schema({
     ref: "category",
     required: true,
   },
-},{Timestamp:true});
+},{timestamps:true});
 
 
 
